@@ -6,7 +6,7 @@ Express.js + Mongodb E-commerce template
 
 Reference Template for E-commerce website
 
-<img src="https://github.com/JayKim97/jpeg2asciiflask/blob/main/server/static/uploads/Lenna.png" width="250">
+<img src="https://github.com/JayKim97/ecom/blob/main/public/stock/readme.png" width="600">
 
 ## Current Features
 
